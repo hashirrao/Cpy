@@ -1,0 +1,10 @@
+C:\Users\#\source\repos\Cpy\Cpy\bin\Debug\Cpy.exe.config
+C:\Users\#\source\repos\Cpy\Cpy\bin\Debug\Cpy.exe
+C:\Users\#\source\repos\Cpy\Cpy\bin\Debug\Cpy.pdb
+C:\Users\#\source\repos\Cpy\Cpy\obj\Debug\Cpy.Properties.Resources.resources
+C:\Users\#\source\repos\Cpy\Cpy\obj\Debug\Cpy.csproj.GenerateResource.cache
+C:\Users\#\source\repos\Cpy\Cpy\obj\Debug\Cpy.csproj.CoreCompileInputs.cache
+C:\Users\#\source\repos\Cpy\Cpy\obj\Debug\Cpy.exe
+C:\Users\#\source\repos\Cpy\Cpy\obj\Debug\Cpy.pdb
+C:\Users\#\source\repos\Cpy\Cpy\obj\Debug\Cpy.csprojAssemblyReference.cache
+C:\Users\#\source\repos\Cpy\Cpy\obj\Debug\Cpy.Cpy.resources
